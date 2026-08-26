@@ -36,5 +36,5 @@ It features a customizable length slider, character type toggles, a strength ind
 ## 🚀 How to Run
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/OIBSIP.git
+   git clonehttps://github.com/SothSokhomal/OIBSIP.git
    cd OIBSIP/Python-Task3-RandomPasswordGenerator
